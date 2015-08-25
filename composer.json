@@ -1,0 +1,24 @@
+{
+    "name": "bitpiston/woocommerce-facebook-remarketing",
+    "description": "Facebook custom audience event tracking integration for WooCommerce allowing remarketing via targeted ads",
+    "type": "wordpress-plugin",
+    "keywords": [
+        "facebook",
+        "tracking",
+        "marketing",
+        "woocommerce",
+        "wordpress"
+    ],
+    "homepage": "https://github.com/BitPiston/woocommerce-facebook-remarketing",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jan Pingel",
+            "email": "jpingel@bitpiston.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4",
+        "composer/installers": "~1.0"
+    }
+}
